@@ -1,5 +1,5 @@
 # Simple_Port_Scanner
-Simple port scanner running on Windows platform using Winsock2 DLL
+This is a C++ Simple Port Scanner tool running on Windows platform compiled on Visual Studio 2022. The tool use socket programming with Winsock2 DLL and multithreading to check for open ports on the remote server. 
 
 Usage:
 ```PortScanner.exe <ip> <range of port>```
