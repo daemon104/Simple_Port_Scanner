@@ -1,0 +1,3 @@
+﻿  TCPScanner.cpp
+C:\Users\Daemon\source\repos\PortScanner\PortScanner\TCPScanner.cpp(133,18): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+  PortScanner.vcxproj -> C:\Users\Daemon\source\repos\PortScanner\x64\Debug\PortScanner.exe
