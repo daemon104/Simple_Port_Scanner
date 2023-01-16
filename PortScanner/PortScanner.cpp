@@ -159,10 +159,8 @@ int main(int argc, char* argv[])
 	if (argc != 3) {
 		cerr << "Usage: " << argv[0] << " address port(s)\n"
 			<< "Examples:\n"
-			<< "\t" << argv[0] << " localhost 80,8080\n"
-			<< "\t" << argv[0] << " scanme.nmap.org 80,8080\n"
-			<< "\t" << argv[0] << " 192.168.1.10 0-65535\n"
-			<< "\t" << argv[0] << " example.com 0-100,80,8080\n";
+			<< "\t" << argv[0] << " 127.0.0.1 0-10000\n"
+			<< "\t" << argv[0] << " 192.168.1.10 0-65535\n";
 		exit(0);
 	}
 
