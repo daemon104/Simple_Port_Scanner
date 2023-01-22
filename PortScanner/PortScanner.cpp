@@ -10,6 +10,7 @@
 #include <iomanip>
 #include <chrono>
 #include <ctime>
+#pragma comment(lib, "ws2_32.lib")
 
 using namespace std;
 
